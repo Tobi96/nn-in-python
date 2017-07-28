@@ -1,1 +1,2 @@
-# nn-in-python
+# Simple Neural Network in Python
+This is a simple feedforward neural network programm i created by using the book "Make your own Neural Network" by Tariq Rashids. It can read in pictures of handwritten digits from 0 to 9 of an 28x28 PNG-Image. It's using a 3 layer network and the sigmoid activiation function. For Training i used the MNIST-Dataset in a csv-format of 66000 examples. I tested it on several learning rates and epoches aswell as 100 and 200 hiddennodes. My best rate of success was 94,83% which is good enough for this simple network, even though there way better ones out there.
